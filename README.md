@@ -1,7 +1,7 @@
 # Identity App
 An app to display your identity to the real world.
 
-![picture](Screenshots_46.png)
+![picture](Screenshot_46.png)
 
 ## Getting Started
 
